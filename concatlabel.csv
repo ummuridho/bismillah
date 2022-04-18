@@ -1,0 +1,157 @@
+,score,text,klasifikasi
+1,2,"['abis', 'ribut', 'permendukbidristek', 'ppks', 'ribut', 'dukung', 'live', 'or', 'dukung', 'choice', 'medsos', 'kaya', 'ambigu', 'gitu', 'topik']",Positif
+13,1,"['alas', 'cegah', 'keras', 'seksual', 'lingkung', 'kampus', 'mendikbud', 'nadiem', 'makarim', 'permendukbidristek']",Positif
+15,1,"['alhasil', 'kalang', 'dukung', 'permendukbidristek', 'ppks', 'anggap', 'permendukbidristek', 'terobos', 'berperspekt']",Positif
+16,1,"['alhasil', 'kalang', 'dukung', 'permendukbidristek', 'ppks', 'anggap', 'permendukbidristek', 'terobos', 'perspektif']",Positif
+19,2,"['atur', 'teken', 'nadiem', 'makarim', 'cegah', 'tangan', 'keras', 'seksual', 'kampus', 'nilai', 'did']",Positif
+21,1,"['ayo', 'dukung', 'implementasi', 'permendikbudristek', 'ppks', 'wujud', 'penuh', 'hak', 'adil']",Positif
+27,1,"['bem', 'fh', 'unmul', 'dukung', 'rektor', 'kait', 'implementasi', 'permendukbidristek', 'ppks', 'perhati', 'nsimak']",Positif
+28,1,"['bem', 'ugm', 'dukung', 'implementasi', 'permendukbidristek', 'ristek', 'nomor', 'ppks']",Positif
+30,1,"['bentuk', 'keras', 'seksual', 'atur', 'permendukbidristek', 'nomor', 'ppks', 'lingkung', 'kampus']",Positif
+35,1,"['besok', 'naksi', 'haktp', 'dukung', 'permendukbidristek', 'ristek', 'ppks', 'aman', 'ruu', 'tpks', 'sahkan', 'ruu', 'ppks']",Positif
+41,1,"['dampak', 'hadir', 'permendukbidristek', 'ppks', 'mahasiswa', 'harap', 'atur', 'simak', 'opini']",Positif
+56,1,"['dosis', 'pupuk', 'tunggal', 'tbm', 'kelapa', 'sawit', 'tanah', 'mineral', 'nsimak', 'informasi', 'teman']",Positif
+57,1,"['dosis', 'pupuk', 'tunggal', 'tbm', 'kelapa', 'sawit', 'tanah', 'mineral', 'nsimak', 'informasi', 'teman', 'teman']",Positif
+61,2,"['emang', 'ui', 'satgas', 'nsetahu', 'kampus', 'indonesia', 'satgas', 'ks', 'hasil']",Positif
+64,1,"['gagal', 'jd', 'asn', 'pimpin', 'nadiem', 'bangga', 'permendukbidristek', 'ppks', 'moga']",Positif
+65,1,"['gagal', 'paham', 'nadiem', 'ruang', 'lingkup', 'permendukbidristek', 'ppks', 'tindak', 'asusila', 'kampus']",Positif
+67,2,"['gais', 'bantu', 'isi', 'kuisionerku', 'atur', 'tri', 'cegah', 'tangan', 'keras', 'seksual', 'ppks', 'mohon']",Positif
+70,2,"['gila', 'berani', 'terang', 'an', 'gin', 'ngubsu', 'edi', 'ama', 'walkot', 'bobby', 'berani', 'naparat', 'tindak', 'nih', 'nma']",Positif
+71,2,"['gila', 'berani', 'terang', 'an', 'gin', 'ngubsu', 'edi', 'ama', 'walkot', 'bobby', 'berani', 'naparat', 'tindak', 'nih', 'nmasih']",Positif
+74,1,"['gimana', 'sikap', 'pgri', 'permendukbidristek', 'no', 'th', 'ppks', 'mimin']",Positif
+77,1,"['good', 'byk', 'yg', 'berani', 'speak', 'out', 'permendukbidristek', 'ppks']",Positif
+78,1,"['gubernur', 'sumut', 'biar']",Positif
+79,1,"['gw', 'suka', 'denger', 'bahas', 'permendukbidristek', 'ppks']",Positif
+81,2,"['hadir', 'permendukbidristek', 'ppks', 'desak', 'kampus', 'bentuk', 'satgas', 'unmul', 'nsimak']",Positif
+85,1,"['hai', 'soka', 'permendikbudristek', 'nomor', 'nih', 'mika', 'kasih']",Positif
+86,3,"['hallo', 'geografella', 'bem', 'fakultas', 'geografi', 'sikap', 'dukung', 'desak', 'implementasi', 'permendukbidristek', 'ristek']",Positif
+87,1,"['hallo', 'menko', 'nyg', 'berita', 'sepele', 'lho', 'biar']",Positif
+99,1,"['inti', 'permendukbidristek', 'ppks', 'tau', 'kalo', 'consent', 'ya', 'terma']",Positif
+100,5,"['isi', 'atur', 'simak', 'informasi', 'paham', 'atur']",Positif
+101,2,"['islam', 'sanksi', 'jera', 'langgar', 'atur', 'atur']",Positif
+102,2,"['islam', 'sanksi', 'jera', 'langgar', 'atur', 'atur', 'dal']",Positif
+103,1,"['jokowi', 'dukung', 'didik', 'permendukbidristek', 'ppks', 'mendikbud', 'nadiem', 'makarim', 'ruang', 'lingkup', 'keras', 'seksual', 'buk']",Positif
+112,1,"['kelompok', 'dukung', 'permendikbudristek', 'ppks', 'capai', 'total', 'netizen', 'bahas', 'isu']",Positif
+115,1,"['kemendikbudristek', 'perintah', 'pimpin', 'kampus', 'atur', 'turun', 'permendukbidristek', 'ppks', 'jakarta', 'edunews']",Positif
+116,3,"['menteri', 'agama', 'dukung', 'bijak', 'kemendikbud', 'ristek', 'kait', 'cegah', 'tangan', 'keras', 'seksual', 'ppks', 'ling']",Positif
+117,1,"['menteri', 'didik', 'budaya', 'riset', 'teknologi', 'resmi', 'atur', 'permendikbudristek', 'no']",Positif
+124,1,"['kritik', 'kait', 'permendikbudristek', 'nomor', 'cegah', 'tangan', 'keras']",Positif
+126,1,"['lincolin', 'figur', 'kutip', 'media', 'nyata', 'sikap', 'muhammadiyah', 'anggap', 'perme']",Positif
+135,1,"['mantap', 'banget', 'kampus', 'satgas', 'ppks', 'coy']",Positif
+138,2,"['menag', 'menteri', 'agama', 'dukung', 'bijak', 'menteri', 'didik', 'budaya', 'riset']",Positif
+139,1,"['mendikbud', 'ristek', 'nadiem', 'makarim', 'ruang', 'lingkup', 'permendukbidristek', 'ristek', 'nomor', 'atur', 'so']",Positif
+141,1,"['mendikbud', 'ristek', 'nadiem', 'makarim', 'salah', 'arti', 'isi', 'atur', 'kait', 'cegah', 'pen']",Positif
+142,1,"['mendikbud', 'ristek', 'ruang', 'lingkup', 'atur', 'mendikbud', 'ristek', 'permendukbidristek', 'ristek', 'nomor']",Positif
+143,1,"['mendikbudristek', 'nadiem', 'makarim', 'atur', 'menteri', 'didik', 'kebudayan', 'riset', 'teknologi', 'dik']",Positif
+144,1,"['mendikbudristek', 'nadiem', 'makarim', 'permendukbidristek', 'ppks', 'chanya', 'atur', 'kait', 'keras', 'seksual']",Positif
+145,1,"['dukung', 'mbak', 'sy', 'coba', 'artikel', 'bahan', 'ghibah', 'teman']",Positif
+146,1,"['dukung', 'permendukbidristek', 'ristek', 'ppks', 'lingkung', 'guru', 'permendukbidristek', 'langkah']",Positif
+147,1,"['dukung', 'permendukbidristek', 'ristek', 'ppks', 'lingkung', 'guru', 'permendukbidristek', 'langkah', 'awa']",Positif
+148,1,"['dukung', 'permendukbidristek', 'ristek', 'ppks', 'lingkung', 'guru', 'permendukbidristek', 'langkah', 'melaw']",Positif
+152,1,"['moga', 'moga', 'satgas', 'ppks', 'beneran', 'amp', 'jalan', 'sesuai', 'fungsi', 'monitoring', 'amp', 'edukasi', 'ngga', 'cuman', 'keren', 'keren']",Positif
+154,1,"['nadiem', 'makarim', 'terbit', 'permendukbidristek', 'no', 'cegah']",Positif
+155,1,"['nadiem', 'tekan', 'topik', 'utama', 'permendukbidristek', 'ristek', 'cegah', 'keras', 'seksual', 'lingkung']",Positif
+171,1,"['paham', 'seksama', 'permendikbudristek', 'ppks', 'tindak', 'nuansa']",Positif
+172,1,"['pbnu', 'dukung', 'implementasi', 'permendikbudristek', 'ppks', 'revisi']",Positif
+173,1,"['pbnu', 'dukung', 'penuh', 'permendikbudristek', 'ppks']",Positif
+174,2,"['pbnu', 'sorot', 'suka', 'suka', 'permendukbidristek', 'ppks', 'nadiem', 'tampung']",Positif
+178,1,"['tangan', 'keras', 'seksual', 'kampus', 'desak', 'terap', 'lingkung', 'guru']",Positif
+181,1,"['atur', 'progresif', 'maju', 'lindung', 'perempuan', 'keras', 'bas', 'gender']",Positif
+182,1,"['banding', 'pertor', 'nomor', 'cegah', 'tangan', 'keras', 'seksual', 'rundung', 'permendikbudristek']",Positif
+184,1,"['guru', 'atur', 'turun', 'kuat', 'permendikbudristek', 'nomor']",Positif
+189,2,"['permendukbidristek', 'no', 'risi', 'atur', 'cegah', 'tangan', 'keras', 'seksual', 'ppks']",Positif
+190,1,"['permendukbidristek', 'no', 'solusi', 'keras', 'seksual', 'nbaru', 'permendukbidristek', 'no', 'cegah']",Positif
+191,1,"['permendukbidristek', 'no', 'solusi', 'keras', 'seksual', 'nbaru', 'permendukbidristek', 'no', 'cegah']",Positif
+193,1,"['permendukbidristek', 'nomor', 'cegah', 'tangan', 'keras', 'seksual']",Positif
+207,2,"['tuju', 'ya', 'suka', 'sm', 'suka', 'agama', 'ya', 'masuk', 'zina', 'urus']",Positif
+209,1,"['pikir', 'kau', 'thogut', 'ni', 'yg', 'suka', 'catcalling', 'ga', 'tuju']",Positif
+211,1,"['ppks', 'kampus', 'bebas', 'merdeka', 'atur', 'menteri', 'didik', 'budaya', 'riset', 'teknologi']",Positif
+213,1,"['produk', 'hukum', 'terbit', 'permendukbidristek', 'ppks', 'kemendikbud', 'tim', 'satgas', 'gitu']",Positif
+217,2,"['rektor', 'universitas', 'halu', 'oleo', 'uho', 'kendari', 'muhammad', 'zamrun', 'firihu', 'dukung', 'atur', 'menteri', 'didik', 'budaya']",Positif
+218,1,"['rektor', 'unsika', 'bentuk', 'panitia', 'seleksi', 'lindung', 'cegah', 'keras', 'seksual', 'pansel', 'ppks', 'wak']",Positif
+219,1,"['ruang', 'lingkup', 'permendukbidristek', 'ristek', 'nomor', 'atur', 'keras', 'seks']",Positif
+221,1,"['ruu', 'tpks', 'permendukbidristek', 'ppks', 'sarat', 'liberalisasi', 'hidup', 'sosial', 'kampus', 'cocok']",Positif
+226,1,"['sasar', 'permendikdubristek', 'ppks', 'cegah', 'tangan', 'sebelas', 'keras', 'sek']",Positif
+227,1,"['satgas', 'nakes', 'tumbal', 'covid', 'nasib', 'spt', 'tugas', 'ppks', 'milu']",Positif
+229,1,"['malam', 'mantik', 'diskusi', 'panel', 'kait', 'urgensi', 'satgas', 'ppks', 'universitas']",Positif
+230,1,"['sesat', 'pikir', 'permendukbidristek', 'ristek', 'ppks', 'logika', 'loh', 'tau', 'laku', 'keras', 'seksual', 'hasil']",Positif
+231,1,"['sesat', 'pikir', 'permendukbidristek', 'ristek', 'ppks', 'logika', 'loh', 'tau', 'laku', 'keras', 'seksual', 'pacar']",Positif
+232,1,"['tuju', 'anies', 'bilang', 'hebat', 'si', 'mustofa', 'aja', 'sampe', 'bikin', 'bela', 'lho', 'atur', 'interna']",Positif
+234,2,"['sikap', 'dukung', 'rektor', 'ugm', 'implementasi', 'permendukbidristek', 'ristek', 'ppks', 'lingkung', 'kampus']",Positif
+235,2,"['sosialisai', 'atur', 'kemenristedikbud', 'no', 'cegah', 'tangan', 'keras', 'seksual', 'lingk']",Positif
+236,1,"['suka', 'nadiem', 'makarim', 'bicara', 'permendukbidristek', 'ppks', 'beliau', 'lupa', 'laki', 'laki']",Positif
+242,1,"['sy', 'dukung']",Positif
+248,1,"['tweeps', 'permendibud', 'ristek', 'ppks', 'terbit', 'payung', 'hukum', 'cegah', 'keras', 'seksual', 'lingkung', 'kampu']",Positif
+249,1,"['universitas', 'indonesia', 'dukung', 'implementasi', 'permendikbudristek', 'ppks']",Positif
+251,1,"['utus', 'bentuk', 'satgas', 'ppks']",Positif
+2,-1,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc']",Negatif
+3,-2,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc', 'aksi']",Negatif
+4,-2,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc', 'aksi']",Negatif
+5,-1,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc', 'lupa']",Negatif
+6,-1,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc', 'nsebagai', 'bentuk', 'reaksi', 'sah']",Negatif
+7,-1,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc', 'nsebagai', 'bentuk', 'reaksi', 'sah', 'pe']",Negatif
+8,-1,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'zina', 'syariah', 'serba', 'serbi', 'mmc', 'nsimak', 'lengkap', 'video']",Negatif
+9,-1,"['aksi', 'tolak', 'permendukbidristek', 'ppks', 'cegah', 'perzinahan', 'syariah']",Negatif
+11,-1,"['al', 'baqarah', 'jual', 'ayat', 'ayat', 'ku', 'harga', 'murah', 'tp', 'kelompok', 'yg', 'jg', 'tolak', 'permendikbudrist']",Negatif
+12,-1,"['al', 'baqarah', 'jual', 'ayat', 'ayat', 'ku', 'harga', 'murah', 'tp', 'kelompok', 'yg', 'jg', 'tolak', 'permendikbudristek', 'ppks', 'in']",Negatif
+14,-1,"['alhamdulillah', 'permendukbidristek', 'ppks', 'korban', 'aman', 'suara', 'moga', 'korban', 'adil', 'laku']",Negatif
+20,-1,"['audiensi', 'ddii', 'jabar', 'yod', 'tolak', 'permendukbidristek', 'ppks', 'revisi']",Negatif
+22,-1,"['ayo', 'medan', 'terima', 'anak', 'didik', 'rasuk', 'mahasiswa', 'gelar', 'demo']",Negatif
+24,-1,"['bacain', 'tweet', 'orang', 'tolak', 'permendukbidristek', 'ppks', 'marah', 'banget', 'astaga', 'hobi', 'ngelindungin', 'jahat', 'kelamin']",Negatif
+25,-1,"['bacain', 'tweet', 'orang', 'tolak', 'permendukbidristek', 'ppks', 'marah', 'banget', 'astaga', 'npunya', 'hobi', 'ngelindungin', 'jahat', 'kelamin']",Negatif
+31,-1,"['bentuk', 'keras', 'seksual', 'larang', 'nkemendikbud', 'ristek', 'resmi', 'kesah', 'permendukbidristek', 'nomor', 'tentan']",Negatif
+37,-1,"['butuh', 'partisipasi', 'dukung', 'permendukbidristek', 'ppks', 'nya', 'diskusi', 'adu', 'argumen', 'lawan', 'ppks']",Negatif
+43,-1,"['dprd', 'dewan', 'da', 'jabar', 'permendikbudristek', 'ppks', 'cabut']",Negatif
+47,-1,"['dengar', 'suara', 'mahasiswa', 'kemdikbudristek', 'kesah', 'permendukbidristek', 'ppks', 'debat', 'muncul']",Negatif
+48,-1,"['dengar', 'suara', 'mahasiswa', 'kemdikbudristek', 'kesah', 'permendukbidristek', 'ppks', 'debat', 'muncul', 'pih']",Negatif
+51,-2,"['nilai', 'syariat', 'islam', 'pancasila', 'kammi', 'malu', 'tolak', 'permendikbudristek', 'ppks']",Negatif
+52,-2,"['pelintir', 'permendukbidristek', 'ppks', 'negara', 'gaduh']",Negatif
+58,-2,"['dprd', 'jabar', 'permendukbidristek', 'ppks', 'cabut', 'tolak', 'ruu', 'tpks']",Negatif
+59,-1,"['dprk', 'banda', 'aceh', 'dprk', 'banda', 'aceh', 'permendukbidristek', 'ppks', 'kaji', 'ulang']",Negatif
+62,-1,"['etahe', 'malu', 'pulak', 'marga', 'baca', 'ulah', 'akka', 'si', 'borjong', 'pikir', 'kelen', 'tengok', 'terorist']",Negatif
+63,-1,"['figur', 'figur', 'kutip', 'media', 'massa', 'daring', 'top', 'influencer', 'dominasi', 'tolak', 'permendikbudristek', 'ppks']",Negatif
+69,-1,"['gengs', 'podcast', 'tayang', 'we', 're', 'bicara', 'about', 'permendukbidristek', 'ppks', 'resmi', 'laku', 'talib', 'larang']",Negatif
+72,-1,"['gimana', 'nih', 'ormas', 'yg', 'larang', 'negara', 'berani', 'unjuk', 'gigi', 'pub']",Negatif
+73,-1,"['gimana', 'sih', 'sebenernya', 'langkah', 'negara', 'tangan', 'ndi', 'gawat', 'keras', 'perempuan']",Negatif
+75,-1,"['gin', 'gaes', 'rumus', 'sederhana', 'tahan', 'permendukbidristek', 'ppks', 'sahkan', 'ruu', 'ppks', 'bubar', 'ppks']",Negatif
+88,-1,"['haloo', 'sayap', 'organisasi', 'larang', 'hti']",Negatif
+90,-2,"['headline', 'nasional', 'kammi', 'tolak', 'ruu', 'tpks', 'cabut', 'permendikbudristek', 'ppks']",Negatif
+95,-1,"['ikm', 'ui', 'aksi', 'harap', 'isi', 'taut', 'turu']",Negatif
+96,-1,"['permendukbidristek', 'ppks', 'nadiem', 'makarim', 'somasi', 'ormas', 'pemuda']",Negatif
+98,-2,"['implikasi', 'permendukbidristek', 'no', 'ttg', 'ppks', 'adlh', 'legal', 'zina', 'kumpul', 'free', 'sex', 'ormas', 'islam', 'muhammadiya']",Negatif
+104,-2,"['kalo', 'tolak', 'salah', 'arti', 'tuju']",Negatif
+105,-2,"['kammi', 'daerah', 'gelar', 'aksi', 'tolak', 'permendukbidristek', 'ppks']",Negatif
+109,-1,"['keras', 'paksa', 'tuju', 'korban', 'tuju', 'hapus']",Negatif
+110,-1,"['keras', 'perempuan', 'hapus', 'bebas', 'keker']",Negatif
+118,-2,"['komisi', 'permendukbidristek', 'ppks', 'cabut', 'tolak', 'ruu', 'tpks']",Negatif
+122,-1,"['kontroversi', 'permendukbidristek', 'ristek', 'ppks', 'seks', 'bebas', 'legal', 'mes', 'tri', 'jayanti', 'sahabat', 'tintasiyasi']",Negatif
+127,-1,"['liput', 'tulis', 'keras', 'seksual', 'lingkung', 'kampus', 'salah']",Negatif
+128,-1,"['liput', 'tulis', 'keras', 'seksual', 'lingkung', 'kampus', 'salah', 'guru', 'bes']",Negatif
+130,-1,"['mahasiswa', 'medan', 'unjuk', 'permendikbudristek', 'ppks', 'cabut', 'tegak', 'khilafah', 'komisi']",Negatif
+133,-1,"['mahasiswa', 'gelar', 'demonstrasi', 'medan', 'permendikbudr', 'ppks', 'lingkung', 'guru', 'cabut']",Negatif
+156,-2,"['nadiem', 'salah', 'arti', 'permendukbidristek', 'ristek', 'mendikbud', 'ristek', 'salah', 'men']",Negatif
+157,-2,"['nadiem', 'salah', 'arti', 'permendukbidristek', 'ristek', 'mendikbud', 'ristek', 'salah', 'arti', 'isi']",Negatif
+158,-2,"['nadiem', 'salah', 'arti', 'permendukbidristek', 'ristek', 'salah', 'arti', 'isi']",Negatif
+164,-1,"['nbanyak', 'salah', 'arti', 'permendukbidristek', 'ristek', 'nnadiem', 'tekan', 'topik', 'utama']",Negatif
+165,-1,"['nbanyak', 'salah', 'arti', 'permendukbidristek', 'ristek', 'nnadiem', 'tekan', 'topik', 'utama', 'permendukbidristek']",Negatif
+167,-1,"['ngabers', 'berontak', 'tolak', 'permendikbudristek', 'ppks', 'koar', 'koar', 'mending', 'jd', 'bicara', 'dispub']",Negatif
+168,-1,"['nuduh', 'legalisasi', 'perzinahan', 'free', 'sex', 'tuding', 'jahat', 'jahat', 'kelamin', 'krn', 'tolak', 'permendikbudristek']",Negatif
+170,-1,"['orang', 'polemik', 'kait', 'permendukbidristek', 'ppks', 'ban', 'bantah', 'haram', 'crypto']",Negatif
+177,-2,"['perintah', 'ri', 'serius', 'ga', 'bubar', 'kelompok', 'usung', 'khilafah', 'demo', 'ganti', 'pancasila', 'amp', 'uud']",Negatif
+197,-1,"['permendukbidristek', 'ppks', 'bener', 'dampak', 'karna', 'korban']",Negatif
+198,-1,"['permendukbidristek', 'ppks', 'cabut', 'aplg', 'politis', 'serang', 'presiden', 'jg', 'sasar', 'kursi', 'kemendikbud', 'sy']",Negatif
+199,-2,"['permendukbidristek', 'ppks', 'cabut', 'tolak', 'ruu', 'tpks']",Negatif
+200,-1,"['permendukbidristek', 'ppks', 'sinyalir', 'legal', 'zina', 'konsep', 'consent', 'kandung', 'milik', 'pema']",Negatif
+201,-1,"['permendukbidristek', 'ppks', 'tuai', 'kecam', 'anggap', 'legal', 'zina', 'nadiem', 'ter']",Negatif
+208,-1,"['permendukbidristek', 'ppks', 'kampus', 'delik', 'adu', 'spesifik']",Negatif
+214,-1,"['ratus', 'mahasiswa', 'medan', 'tolak', 'permendukbidristek', 'ppks', 'syariat', 'islam', 'solusi']",Negatif
+215,-2,"['ratus', 'mahasiswa', 'gelar', 'aksi', 'demo', 'kemendikbud', 'tuntut', 'cabut', 'permendukbidristek', 'no', 'cegah']",Negatif
+237,-1,"['sungguh', 'sayang', 'suara', 'mahasiswa', 'belah', 'sikap', 'hadir', 'permendukbidristek', 'ppks', 'beda', 'suara', 'mahasiswa']",Negatif
+238,-1,"['sungguh', 'sayang', 'suara', 'mahasiswa', 'belah', 'dlm', 'sikap', 'hadir', 'permendukbidristek', 'ppks', 'beda', 'dgn', 'suara', 'ma']",Negatif
+240,-1,"['sungguh', 'sayang', 'suara', 'mahasiswa', 'belah', 'sikap', 'hadir', 'permendukbidristek', 'ppks', 'beda', 'suara']",Negatif
+241,-1,"['sungguh', 'sayang', 'suara', 'mahasiswa', 'belah', 'sikap', 'hadir', 'permendukbidristek', 'ppks', 'beda', 'suara', 'mahasiswa']",Negatif
+244,-1,"['tolak', 'lincolin', 'arsyad', 'diktilitbang', 'pimpin', 'pusat', 'muhammadiyah', 'perme']",Negatif
+245,-1,"['tolak', 'permendukbidristek', 'ppks']",Negatif
+252,-1,"['yap', 'tuju', 'pandang', 'jg', 'sih', 'heran', 'aja', 'pikir', 'legal', 'zina', 'ka']",Negatif
+253,-1,"['yg', 'takut', 'muhammadiyah', 'mui', 'ppks', 'dll', 'tolak', 'permendukbidristek', 'ppks', 'kemaren', 'bahaya']",Negatif
+255,-1,"['yg', 'tolak', 'permendiknud', 'ppks', 'tau', 'laku', 'ancam']",Negatif
